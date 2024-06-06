@@ -1,4 +1,4 @@
-### Hi there 
+### hello everyone;
 Nomes: Vitor Jesus e Henri de Almeida
        
 •👨‍🎓 Estamos estudando no Alura;
