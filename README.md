@@ -1,14 +1,8 @@
 ### hello everyone;
-Nomes: Vitor Jesus e Henri de Almeida
-       
-•👨‍🎓 Estamos estudando no Alura;
+Names: Vitor Jesus e Henri de Almeida
+We are studants and professional footboll players;
 
-•👊 Estamos desenvolvendo na linguagem JavaScript;
-
-•🥇 Utilizamos esses espaços para nossa organização e compartilhamento dos projetos desenvolvidos.
-
-Contatos:
-
+Contacts:
 @vitoorjesus
 
 @h3nri_almeida
